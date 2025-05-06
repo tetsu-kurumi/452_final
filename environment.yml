@@ -1,0 +1,13 @@
+name: uncertainty_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pytorch-cuda=11.8
+  - torchaudio
+  - ipython
+  - jupyter
+  - scikit-learn
+  - numpy
+prefix: /home/ulas/anaconda3/envs/uncertainty_env
